@@ -1,6 +1,6 @@
 # FoodFlow - Food Delivery Landing Page
 
-A modern and fully responsive food delivery website built using HTML, CSS, and JavaScript. This project showcases a professional landing page for an online food delivery service with smooth scrolling navigation, pricing plans, testimonials, city coverage, and a contact form.
+A modern and fully responsive food delivery website built using HTML,Tailwind CSS, and JavaScript. This project showcases a professional landing page for an online food delivery service with smooth scrolling navigation, pricing plans, testimonials, city coverage, and a contact form.
 
 ## Features
 
